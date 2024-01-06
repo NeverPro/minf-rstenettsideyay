@@ -4,14 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css" />
-    <title>game main page</title>
+    <title>Document</title>
 </head>
 <body>
     <a href="index.html">Back to main page</a>
-    <h1>Game main page</h1>
-    <img src="photos/consept of game.jpg" alt="Consept of my location based game" width="1152" height="648">
-    <p>
-        Yes, it's a pokemon go clone... But with houses! WoW!!1! IncrediBel.
-    </p>
 </body>
 </html>
